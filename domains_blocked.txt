@@ -14,6 +14,9 @@ dropbox-dns.com
 :.*github.*:
 rawgit.com
 
+# docker
+:.*docker.*:
+
 # Facebook
 facebook.com
 facebook.net
@@ -83,10 +86,10 @@ whatsapp.com
 whatsapp.net
 
 # Line
-#line.me
-#line-apps.com
-#line-scdn.net
-#naver.jp
+line.me
+line-apps.com
+line-scdn.net
+naver.jp
 
 # Microsoft
 :.*microsoft.*:
@@ -215,17 +218,17 @@ getsync.com
 resilio.com
 
 # FC2
-#fc2.com
-#fc2id.com
+fc2.com
+fc2id.com
 
 # Apple
-#apple.com
-#cdn-apple.com
-#apple-mapkit.com
+apple.com
+cdn-apple.com
+apple-mapkit.com
 
 # Trello
-#trello.com
-#trellocdn.com
+trello.com
+trellocdn.com
 
 # Twitch
 twitch.tv
@@ -235,9 +238,9 @@ ttvnw.net
 jtvnw.net
 
 # Discord
-#discordapp.com
-#discordapp.net
-#discord.gg
+discordapp.com
+discordapp.net
+discord.gg
 
 # Others
 :.*ddns\.[a-z]{2,4}$:
@@ -292,7 +295,7 @@ letscorp.net
 aboluowang.com
 quora.com
 quoracdn.net
-#bandwagonhost.com
+bandwagonhost.com
 :mitbbs\w{0,3}\.\w{2,3}:
 unknownspace.org
 my-free-mp3s.com
@@ -319,7 +322,7 @@ pincong.rocks
 letsencrypt.org
 v2ray.com
 techspot.com
-#hcaptcha.com
+hcaptcha.com
 notion.so
 westca.com
 xuite.net
@@ -330,5 +333,5 @@ chineseaci.com
 sqlitetutorial.net
 
 # NBA
-#nba4free.com
-#nba4live.com
+nba4free.com
+nba4live.com
