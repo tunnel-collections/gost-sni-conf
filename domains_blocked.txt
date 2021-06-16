@@ -28,7 +28,7 @@ accountkit.com
 messenger.com
 
 # Google
-:^(?!.*(syndication|ads|-analytics|tag)).*google.*:
+:.*google.*:
 :.*chrome.*:
 :.*\.gvt[0-9]*\.com:
 :.*\.blogspot\..*:
