@@ -1,0 +1,334 @@
+# Overseas websites for dnsmasq-regex generator
+
+# Top-Level Domains
+:.*\.(hk|tw|jp|ca|de|fr|uk|sg|us|kr|au)$:
+
+# dropbox
+dropbox.com
+dropboxapi.com
+dropboxstatic.com
+dropboxusercontent.com
+dropbox-dns.com
+
+# Github
+:.*github.*:
+rawgit.com
+
+# Facebook
+facebook.com
+facebook.net
+fb.me
+fb.com
+fbcdn.net
+fbsbx.com
+accountkit.com
+messenger.com
+
+# Google
+:^(?!.*(syndication|ads|-analytics|tag)).*google.*:
+:.*chrome.*:
+:.*\.gvt[0-9]*\.com:
+:.*\.blogspot\..*:
+ampproject.org
+gstatic.com
+gmail.com
+blogger.com
+feedburner.com
+g.co
+recaptcha.net
+appspot.com
+android.com
+
+# Youtube
+:.*youtube.*:
+youtu.be
+ytimg.com
+ggpht.com
+
+# Twitter
+twitter.com
+twttr.com
+twimg.com
+t.co
+cms-twdigitalassets.com
+
+# Vimeo
+vimeo.com
+vimeocdn.com
+
+# Wikipedia
+wikipedia.org
+wikimedia.org
+
+# Instagram
+instagram.com
+cdninstagram.com
+
+# Tumblr
+tumblr.com
+
+# Telegram
+telegram.org
+telegram.me
+t.me
+tdesktop.com
+
+# Yahoo
+:.*yahoo.*:
+yimg.com
+flickr.com
+
+# WhatsApp
+whatsapp.com
+whatsapp.net
+
+# Line
+#line.me
+#line-apps.com
+#line-scdn.net
+#naver.jp
+
+# Microsoft
+:.*microsoft.*:
+:.*\.(live|bing)\.(net|com)$:
+:.*skype.*$:
+:.*office.*$:
+:.*xbox.*$:
+onedrive.com
+livefilestore.com
+1drv.com
+msn.com
+trouter.io
+vsassets.io
+visualstudio.com
+
+# Reddit
+reddit.com
+redd.it
+redditstatic.com
+redditmedia.com
+
+# IFFFT
+ift.tt
+
+# Mega
+mega.nz
+mega.io
+mega.co.nz
+
+# news websites
+:.*ntdtv.*:
+:.*reuters.*:
+:.*bbc.*:
+ntd.tv
+rfa.org
+epochtimes.com
+theepochtimes.com
+theinitium.com
+hk01.com
+appledaily.com
+nextmedia.com
+nypost.com
+nytimes.com
+nyt.com
+wsj.com
+wsj.net
+voachinese.com
+voanews.com
+greatfire.org
+freewechat.com
+freeweibo.com
+pao-pao.net
+chinadigitaltimes.net
+bannedbook.org
+dwnews.com
+dw.com
+mpfinance.com
+mingpao.com
+hket.com
+stheadline.com
+scmp.com
+udn.com
+ftchinese.com
+worldjournal.com
+creaders.net
+thestandnews.com
+thenewslens.com
+ettoday.net
+nownews.com
+cmcn.org
+twreporter.org
+now.com
+boxun.com
+bloomberg.com
+inmediahk.net
+matters.news
+economist.com
+storm.mg
+
+# overseas CDN
+# Akamai
+:.*\.akama.*:
+akadns.net
+akam.net
+edgekey.net
+edgesuite.net
+srip.net
+fastly.net
+amazonaws.com
+amazon.com
+cloudfront.net
+cloudflare.com
+cloudflareclient.com
+edgecastcdn.net
+edgecastdns.net
+:.*\.v[0-9]*cdn\.*:
+speedyrails.net
+lswcdn.net
+
+# StackExchange/StackOverflow
+stackoverflow.com
+stackexchange.com
+
+# Porns
+:.*(jav|porn|sex|fuck|xxx).*:
+phncdn.com
+xvideos.com
+t66y.com
+youjizz.com
+avgle.com
+bongacams.com
+
+# Spotify
+spotify.com
+scdn.co
+
+# Sourceforge
+sourceforge.net
+
+# WordPress
+wp.com
+wordpress.com
+
+# Resilio Sync
+getsync.com
+resilio.com
+
+# FC2
+#fc2.com
+#fc2id.com
+
+# Apple
+#apple.com
+#cdn-apple.com
+#apple-mapkit.com
+
+# Trello
+#trello.com
+#trellocdn.com
+
+# Twitch
+twitch.tv
+twitchsvc.net
+twitchcdn.net
+ttvnw.net
+jtvnw.net
+
+# Discord
+#discordapp.com
+#discordapp.net
+#discord.gg
+
+# Others
+:.*ddns\.[a-z]{2,4}$:
+:.*\.dysfz\..*:
+:.*piratebay.*:
+tinypic.com
+imgur.com
+gravatar.com
+bitbucket.com
+disqus.com
+bit.ly
+bitly.com
+duckduckgo.com
+medium.com
+archive.org
+shutterstock.com
+ask.com
+pinimg.com
+soundcloud.com
+sndcdn.com
+pinterest.com
+vk.com
+ptt.cc
+pttread.com
+mobile01.com
+pixiv.net
+dailymotion.com
+steamcommunity.com
+w3schools.com
+lvv2.com
+bstatic.com
+protonmail.com
+slack.com
+amnesty.org
+apkmirror.com
+apkpure.com
+slideshare.net
+torproject.org
+box.com
+xda-cdn.com
+xda-developers.com
+viber.com
+apk-dl.com
+apk-cloud.com
+audioboom.com
+npr.org
+hkgolden.com
+hkgalden.com
+lihkg.com
+lithium.com
+letscorp.net
+aboluowang.com
+quora.com
+quoracdn.net
+#bandwagonhost.com
+:mitbbs\w{0,3}\.\w{2,3}:
+unknownspace.org
+my-free-mp3s.com
+getlantern.org
+telegra.ph
+graph.org
+daum.net
+daumcdn.net
+dlvr.it
+evernote.com
+on.cc
+mojim.com
+goodreads.com
+arkoselabs.com
+protonmail.com
+yitianshijie.net
+wikia.org
+pixnet.net
+deviantart.com
+deviantart.net
+issuu.com
+pscp.tv
+pincong.rocks
+letsencrypt.org
+v2ray.com
+techspot.com
+#hcaptcha.com
+notion.so
+westca.com
+xuite.net
+anchor.fm
+urbandictionary.com
+v2ex.com
+chineseaci.com
+sqlitetutorial.net
+
+# NBA
+#nba4free.com
+#nba4live.com
