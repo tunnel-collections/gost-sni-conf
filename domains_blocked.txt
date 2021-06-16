@@ -17,7 +17,7 @@ rawgit.com
 # dev
 :.*docker.*:
 mysql.com
-
+pypi.org
 
 # Facebook
 facebook.com
