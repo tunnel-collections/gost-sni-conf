@@ -14,8 +14,10 @@ dropbox-dns.com
 :.*github.*:
 rawgit.com
 
-# docker
+# dev
 :.*docker.*:
+mysql.com
+
 
 # Facebook
 facebook.com
