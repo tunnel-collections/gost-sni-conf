@@ -1,7 +1,7 @@
 # Overseas websites for dnsmasq-regex generator
 
 # Top-Level Domains
-:.*\.(au|ca|de|fr|hk|io|jp|kr|sg|tw|uk|us)$:
+:.*\.(au|ca|de|fr|hk|io|info|jp|kr|sg|tw|uk|us)$:
 
 # dropbox
 dropbox.com
